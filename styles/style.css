@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(220, 197, 220);
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 2%;
+}
+
+.posIsion {
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+h2 {
+    position: absolute;
+    top: 15px;
+    left: 46%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.heighT {
+    height: 80px;
+}
+
+.custom-bg-color {
+    background-color: #f0f0f0;
+    margin-top: 2%;
+    height: auto;
+}
+
+.custom-shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
