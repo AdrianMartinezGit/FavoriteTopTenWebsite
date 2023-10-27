@@ -1,3 +1,22 @@
+@font-face {
+    font-family: inria serif;
+    src: url(../Inria_Serif/InriaSerif-Regular.ttf);
+}
+@font-face {
+    font-family: inria serif;
+    src: url(../Inria_Serif/InriaSerif-Bold.ttf);
+}
+
+@font-face {
+    font-family: inria serif;
+    src: url(../Inria_Serif/InriaSerif-Bold.ttf);
+}
+
+@font-face {
+    font-family: inria serif;
+    src: url(../Inria_Serif/InriaSerif-Light.ttf);
+}
+
 h1 {
     color: rgb(220, 197, 220);
 }
@@ -39,5 +58,15 @@ h2 {
 }
 
 .custom-shadow {
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 1px 3px 3px rgba(0, 0, 0, 0.212);
+}
+
+.bgLightGray {
+    background-color: rgb(214, 214, 214);
+}
+
+p {
+
+    font-family: InriaSerif-Bold;
+    font-weight: 500;
 }
